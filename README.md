@@ -23,7 +23,8 @@ This project is a Power BI dashboard for analyzing store sales.
 
 ## Dashboard
 
-![Dashboard](Dashboard.png)
+<img width="1235" height="732" alt="dashboard" src="https://github.com/user-attachments/assets/33e29072-a527-4161-bb78-062d9eb60a0c" />
+
 
 ## Author
 
